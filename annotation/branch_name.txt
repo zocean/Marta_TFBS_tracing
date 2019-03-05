@@ -1,0 +1,7 @@
+bosTau6	yak	Cow-Yak
+bosTau6	sheep	Cow-Sheep
+bosTau6	giraffe10K	Cow-Giraffe
+bosTau6	whale10K	Cow-Whale
+bosTau6	pig10_2	Cow-Pig
+bosTau6	camel10K	Cow-Camel
+bosTau6	hg19	Cow-Human
