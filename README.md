@@ -18,7 +18,7 @@ The pipeline consists of three steps: data preprocessing, predict the branch-of-
     - summarize the tfbs branch-of-origin in enhancers (e.g., run_evo/run_evo_summary_merge.sh)
 
 ## Credits
-This pipeline was developed by Ma group @ Carnegie Mellon University. Part of the script is from ANTICE, a softare being developed for predicting the evolution of lineage-specific TFBS. This pipeline is implemented by Yang Zhang.
+This pipeline was developed by Ma group @ Carnegie Mellon University. Part of the script is from ANTICE, a softwaare being developed for predicting the evolution of lineage-specific TFBS. This pipeline and ANTICE are implemented by Yang Zhang.
 
 ## License
 This software is under MIT license.
